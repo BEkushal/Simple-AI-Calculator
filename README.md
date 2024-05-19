@@ -1,2 +1,2 @@
 # Simple-AI-Calculator
-speech to calculations 
+## speech to calculations 
